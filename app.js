@@ -23,3 +23,9 @@ pb4.addEventListener("click", () => {
     "https://github.com/jeremychristiandi/karen-virtualassistant.git"
   );
 });
+
+const pb5 = document.querySelector("#pb-5");
+
+pb5.addEventListener("click", () => {
+  window.open("https://github.com/jeremychristiandi/flight-visualization.git");
+});
