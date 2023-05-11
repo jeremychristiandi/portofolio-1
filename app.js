@@ -13,26 +13,32 @@ pb2.addEventListener("click", () => {
 const pb3 = document.querySelector("#pb-3");
 
 pb3.addEventListener("click", () => {
-  window.open("https://github.com/jeremychristiandi/kenshin-impact.git");
+  window.open("https://natours-five-tau.vercel.app");
 });
 
 const pb4 = document.querySelector("#pb-4");
 
 pb4.addEventListener("click", () => {
-  window.open("https://github.com/jeremychristiandi/chatbot-messenger.git");
+  window.open("https://github.com/jeremychristiandi/kenshin-impact.git");
 });
 
 const pb5 = document.querySelector("#pb-5");
 
 pb5.addEventListener("click", () => {
-  window.open(
-    "https://github.com/jeremychristiandi/karen-virtualassistant.git"
-  );
+  window.open("https://github.com/jeremychristiandi/chatbot-messenger.git");
 });
 
 const pb6 = document.querySelector("#pb-6");
 
 pb6.addEventListener("click", () => {
+  window.open(
+    "https://github.com/jeremychristiandi/karen-virtualassistant.git"
+  );
+});
+
+const pb7 = document.querySelector("#pb-7");
+
+pb7.addEventListener("click", () => {
   window.open("https://github.com/jeremychristiandi/flight-visualization.git");
 });
 
